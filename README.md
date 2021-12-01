@@ -35,15 +35,9 @@ a,b=b,a
 print("Swapped values are:",a,b)
 <<<<<<< HEAD
 ~~~
-## OUTPUT:
-![GitHub Logo](unknown.png)
-
-=======
-'''
->>>>>>> 92cfccd3764e4a4408101aab0f4747bfd46d2731
 
 ## output:
-![GitHub Logo](unknown.jpg)
+![GitHub Logo](unknown.png)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
