@@ -23,10 +23,6 @@ End the program
 #Developed by: Aadheeshwar.A
 #RegisterNumber:21001368
 
-#Program to swap two values.
-#Developed by:Jeswanth 
-#RegisterNumber:21001768
->>>>>>> 92cfccd3764e4a4408101aab0f4747bfd46d2731
 a=int(input())
 b=int(input())
 a,b=b,a
