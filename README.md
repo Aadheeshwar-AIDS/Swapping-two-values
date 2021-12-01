@@ -18,13 +18,11 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-<<<<<<< HEAD
 ~~~
 #Program to swap two values.
 #Developed by: Aadheeshwar.A
 #RegisterNumber:21001368
-=======
-'''
+
 #Program to swap two values.
 #Developed by:Jeswanth 
 #RegisterNumber:21001768
@@ -33,7 +31,6 @@ a=int(input())
 b=int(input())
 a,b=b,a
 print("Swapped values are:",a,b)
-<<<<<<< HEAD
 ~~~
 
 ## output:
